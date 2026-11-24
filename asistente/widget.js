@@ -3,7 +3,7 @@
    Si no se pasa code, el chat pide el código de reserva antes de la primera pregunta. */
 (function () {
   "use strict";
-  const ENDPOINT = "https://anillotravel-assist.saanchezzmaarcoss.workers.dev";
+  const ENDPOINT = "https://mi-viaje.anillotravel.com/api/asistente";
   const CHIPS = [
     "¿A qué hora tengo que estar en el aeropuerto?",
     "¿Cómo hago el check-in?",
